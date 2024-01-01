@@ -1,0 +1,15 @@
+.masthead{
+    min-height: 60vh;
+    position: relative;
+    background-size: cover;
+   }
+   .masterh{
+    min-height: 10vh;
+    position: relative;
+    background-size: cover;
+   }
+    .masterhe{
+        min-height: 70vh;
+        position: relative;
+        background-size: cover;
+}
